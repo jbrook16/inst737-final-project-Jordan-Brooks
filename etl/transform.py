@@ -1,4 +1,20 @@
 import pandas as pd
+def transform_data():
+    """
+    Cleans and prepares the extracted dataset for analysis.
+
+    Steps include:
+    - Removing duplicates
+    - Handling missing values
+    - Standardizing column names
+    - Running basic exploratory data analysis (EDA)
+
+    Returns
+    -------
+    pandas.DataFrame
+        Cleaned dataset ready for modeling.
+    """
+
 
 def transform_data():
 

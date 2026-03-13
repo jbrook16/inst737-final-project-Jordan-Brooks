@@ -1,4 +1,15 @@
 import pandas as pd
+def extract_data():
+    """
+    Extracts the diabetes mortality dataset from the source CSV file
+    and stores the raw data.
+
+    Returns
+    -------
+    pandas.DataFrame
+        Raw dataset loaded from the source file.
+    """
+
 
 def extract_data():
 
