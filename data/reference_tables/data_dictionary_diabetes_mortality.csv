@@ -1,0 +1,11 @@
+attribute_name	description	data_type	example_vaue
+County	Name of county in Maryland	String	Baltimore City
+FIPS	Federal Information Processing Standard code	Integer	24005
+Age-Adjusted Death Rate	The number of deaths due to diabetes per 100,000 people	Float	24.5
+Lower 95 confidence Interval	Lower bound of the statistical confidence interval for the age-adjusted death rate.	Float	21.3
+Upper 95% Confidence Interval	Upper bound of the statistical confidence interval for the age-adjusted death rate.	Float	28.7
+Average Annual Count	The average number of diabetes deaths occurring each year in the county	Integer	125
+Recent Trend	Tells whether the diabetes death rate is increasing, decreasing, or stable.	String	Increasing
+Recent 5 year in Death Rates	The estimated annual percent change in the death rate over the past five years.	Float	1.5
+Lower 95% Confidence Interval	Lower bound of the confidence interval for the recent 5-year trend estimate.	Float	-0.8
+Upper 95% Confidence Interval	Upper bound of the confidence interval for the recent 5-year trend estimate.	Float	3.7
